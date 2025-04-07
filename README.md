@@ -23,3 +23,15 @@ while condicional:
     INSTRUCCIÓN 1
     INSTRUCCIÓN 2.....
 ```
+## Ciclo For(Python): 
+Ciclo utilizado para iterar colecciones de datos
+
+### SINTAXIS:
+
+```
+for <variable_de_almacenamiento> in coleccion:
+    INTRUCCION 1 
+    INSTRUCCION 2
+    ...
+    INSTRUCCION n
+```
